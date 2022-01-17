@@ -1,0 +1,55 @@
+#workskin .screenplay {
+  font-family: "Courier Prime", Courier, monospace;
+}
+
+/*
+This changes the font for the entire work.
+*/
+
+#workskin .heading.title {
+  font-family: "Courier Prime", Courier, monospace;
+  text-decoration: underline;
+}
+
+/*
+This changes the title.
+*/
+
+#workskin .indented {
+  padding-left: 15%;
+  padding-right: 10%;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/*
+This indents for dialogue.
+*/
+
+#workskin .name {
+  padding-left: 37%;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/*
+This indents for speakers.
+*/
+
+#workskin .parentheticals {
+  padding-left: 26%;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/*
+This indents for parentheticals.
+*/
+
+#workskin .right {
+  text-align: right;
+}
+
+/*
+Right justified next for dual dialogue.
+*/
