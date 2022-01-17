@@ -1,0 +1,30 @@
+#workskin .search-icon {
+  width: 35px;
+  position: absolute;
+  margin-left: 0.2em;
+}
+
+/*
+This keeps the position for the magnifying glass icon.
+*/
+
+#workskin .search-text {
+  margin-left: 2.5em;
+  font-family: Roboto Condensed, Nina, Ubuntu Condensed, Open Sans Condensed;
+}
+
+/*
+This styles the actual text put into the search bar.
+*/
+
+#workskin u,
+#workskin acronym[title],
+#workskin abbr[title] {
+  border-bottom: 2px solid #4675C0;
+  padding-bottom: 4px;
+  text-decoration: none;
+}
+
+/*
+This underlines the text.
+*/
