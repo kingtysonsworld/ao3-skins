@@ -51,5 +51,20 @@ This indents for parentheticals.
 }
 
 /*
-Right justified next for dual dialogue.
+Right justified.
+*/
+
+#workskin .dual {
+  float: left;
+  width: 50%;
+}
+
+#workskin .row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/*
+Dual dialogue.
 */
