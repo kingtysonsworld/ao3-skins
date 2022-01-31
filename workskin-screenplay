@@ -65,6 +65,15 @@ Right justified.
   clear: both;
 }
 
+#workskin .name1 {
+  text-align: center;
+}
+
+#workskin .name2 {
+  text-align: center;
+  padding-right: 25%;
+}
+
 /*
 Dual dialogue.
 */
